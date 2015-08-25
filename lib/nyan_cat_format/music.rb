@@ -26,7 +26,7 @@ module NyanCatFormat
     end
 
     def nyan_mp3
-      File.expand_path('../../../data/nyan-cat.mp3', __FILE__)
+      File.expand_path('../../../data/yee.mp3', __FILE__)
     end
 
     def start input
